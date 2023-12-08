@@ -1,0 +1,27 @@
+.image {
+    position: relative;
+    border-radius: 50%;
+    margin-bottom: -2%;
+}
+
+.p {
+    font-size: 30px;
+    font-weight: 400px;
+    overflow-wrap: normal;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 2%;
+}
+
+.portrait {
+    margin: auto;
+    justify-content: center;
+    display:'flex';
+    flex-direction: 'column';
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

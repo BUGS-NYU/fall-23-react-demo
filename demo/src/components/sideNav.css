@@ -1,0 +1,10 @@
+p {
+    font-size: 50;
+    font-weight: 400;
+}
+
+.background {
+    background-color: lightgrey;
+    padding-left: 1%;
+    padding-right: 1%;
+}

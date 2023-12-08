@@ -1,0 +1,12 @@
+p {
+    font-size: 50;
+    font-weight: 400;
+}
+
+.main-background {
+    background-color: bisque;
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-grow: 2;
+    text-align: center;
+}
